@@ -28,7 +28,7 @@ one;
 }
 
 .hover:hover {
-  background: darkgreen;  
+  background: pink;  
   transform: scale(1.1);   
 }
 
